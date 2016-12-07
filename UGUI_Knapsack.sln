@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BCB0E0B6-2810-C569-457B-6999FD1692E8}") = "UGUI_Knapsack", "Assembly-CSharp.csproj", "{16CF5836-F9D3-2F5A-5C4C-209B6EE34F15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16CF5836-F9D3-2F5A-5C4C-209B6EE34F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16CF5836-F9D3-2F5A-5C4C-209B6EE34F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16CF5836-F9D3-2F5A-5C4C-209B6EE34F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16CF5836-F9D3-2F5A-5C4C-209B6EE34F15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
